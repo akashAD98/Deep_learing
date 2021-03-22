@@ -1,2 +1,2 @@
 # Deep_learing
-projects based on Deep learning ,computer vision,Ml 
+projects based on Deep learning and computer vision 
